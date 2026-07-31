@@ -1,0 +1,200 @@
+------------------------------------------------------------
+mikey train
+Accuracy: 90.48067860508954% 
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.96      0.91       563
+           1       0.95      0.84      0.89       498
+
+    accuracy                           0.90      1061
+   macro avg       0.91      0.90      0.90      1061
+weighted avg       0.91      0.90      0.90      1061
+
+Thresholded: 
+Accuracy: 91.80018850141376% 
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.95      0.92       563
+           1       0.94      0.88      0.91       498
+
+    accuracy                           0.92      1061
+   macro avg       0.92      0.92      0.92      1061
+weighted avg       0.92      0.92      0.92      1061
+
+------------------------------------------------------------
+mikey test
+Accuracy: 89.13043478260869% 
+
+              precision    recall  f1-score   support
+
+           0       0.85      0.95      0.89       112
+           1       0.94      0.84      0.89       118
+
+    accuracy                           0.89       230
+   macro avg       0.90      0.89      0.89       230
+weighted avg       0.90      0.89      0.89       230
+
+Thresholded: 
+Accuracy: 91.73913043478261% 
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.92      0.92       112
+           1       0.92      0.92      0.92       118
+
+    accuracy                           0.92       230
+   macro avg       0.92      0.92      0.92       230
+weighted avg       0.92      0.92      0.92       230
+
+------------------------------------------------------------
+mikey val
+Accuracy: 90.9090909090909% 
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.94      0.91       113
+           1       0.94      0.88      0.91       118
+
+    accuracy                           0.91       231
+   macro avg       0.91      0.91      0.91       231
+weighted avg       0.91      0.91      0.91       231
+
+Thresholded: 
+Accuracy: 91.34199134199135% 
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.85      0.91       113
+           1       0.87      0.97      0.92       118
+
+    accuracy                           0.91       231
+   macro avg       0.92      0.91      0.91       231
+weighted avg       0.92      0.91      0.91       231
+
+------------------------------------------------------------
+mikey all
+Accuracy: 90.34165571616293% 
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.96      0.91       788
+           1       0.95      0.85      0.89       734
+
+    accuracy                           0.90      1522
+   macro avg       0.91      0.90      0.90      1522
+weighted avg       0.91      0.90      0.90      1522
+
+Thresholded: 
+Accuracy: 91.45860709592641% 
+
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92       788
+           1       0.94      0.88      0.91       734
+
+    accuracy                           0.91      1522
+   macro avg       0.92      0.91      0.91      1522
+weighted avg       0.92      0.91      0.91      1522
+
+------------------------------------------------------------
+vedant train
+Accuracy: 94.97153700189753% 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95       533
+           1       0.94      0.96      0.95       521
+
+    accuracy                           0.95      1054
+   macro avg       0.95      0.95      0.95      1054
+weighted avg       0.95      0.95      0.95      1054
+
+Thresholded: 
+Accuracy: 95.63567362428842% 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       533
+           1       0.96      0.95      0.96       521
+
+    accuracy                           0.96      1054
+   macro avg       0.96      0.96      0.96      1054
+weighted avg       0.96      0.96      0.96      1054
+
+------------------------------------------------------------
+vedant test
+Accuracy: 93.85245901639344% 
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93       110
+           1       0.93      0.96      0.94       134
+
+    accuracy                           0.94       244
+   macro avg       0.94      0.94      0.94       244
+weighted avg       0.94      0.94      0.94       244
+
+Thresholded: 
+Accuracy: 95.49180327868852% 
+
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       110
+           1       0.96      0.96      0.96       134
+
+    accuracy                           0.95       244
+   macro avg       0.95      0.95      0.95       244
+weighted avg       0.95      0.95      0.95       244
+
+------------------------------------------------------------
+vedant val
+Accuracy: 97.02127659574468% 
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       117
+           1       0.97      0.97      0.97       118
+
+    accuracy                           0.97       235
+   macro avg       0.97      0.97      0.97       235
+weighted avg       0.97      0.97      0.97       235
+
+Thresholded: 
+Accuracy: 97.02127659574468% 
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       117
+           1       0.97      0.97      0.97       118
+
+    accuracy                           0.97       235
+   macro avg       0.97      0.97      0.97       235
+weighted avg       0.97      0.97      0.97       235
+
+------------------------------------------------------------
+vedant all
+Accuracy: 95.10763209393346% 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95       760
+           1       0.94      0.96      0.95       773
+
+    accuracy                           0.95      1533
+   macro avg       0.95      0.95      0.95      1533
+weighted avg       0.95      0.95      0.95      1533
+
+Thresholded: 
+Accuracy: 95.82517938682322% 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       760
+           1       0.96      0.96      0.96       773
+
+    accuracy                           0.96      1533
+   macro avg       0.96      0.96      0.96      1533
+weighted avg       0.96      0.96      0.96      1533
+

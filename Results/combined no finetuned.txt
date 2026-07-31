@@ -1,0 +1,100 @@
+------------------------------------------------------------
+vedant train
+Accuracy: 85.43735224586288% 
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.97      0.87      1096
+           1       0.95      0.73      0.83      1019
+
+    accuracy                           0.85      2115
+   macro avg       0.87      0.85      0.85      2115
+weighted avg       0.87      0.85      0.85      2115
+
+Thresholded: 0.1185 
+Accuracy: 88.60520094562648% 
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89      1096
+           1       0.90      0.86      0.88      1019
+
+    accuracy                           0.89      2115
+   macro avg       0.89      0.89      0.89      2115
+weighted avg       0.89      0.89      0.89      2115
+
+------------------------------------------------------------
+vedant test
+Accuracy: 84.59915611814345% 
+
+              precision    recall  f1-score   support
+
+           0       0.76      0.98      0.86       222
+           1       0.97      0.73      0.83       252
+
+    accuracy                           0.85       474
+   macro avg       0.87      0.85      0.85       474
+weighted avg       0.87      0.85      0.84       474
+
+Thresholded: 0.1042 
+Accuracy: 90.29535864978902% 
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       222
+           1       0.93      0.88      0.91       252
+
+    accuracy                           0.90       474
+   macro avg       0.90      0.90      0.90       474
+weighted avg       0.90      0.90      0.90       474
+
+------------------------------------------------------------
+vedant val
+Accuracy: 84.54935622317596% 
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.96      0.86       230
+           1       0.95      0.74      0.83       236
+
+    accuracy                           0.85       466
+   macro avg       0.86      0.85      0.84       466
+weighted avg       0.86      0.85      0.84       466
+
+Thresholded: 0.1049 
+Accuracy: 89.91416309012875% 
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.90       230
+           1       0.90      0.91      0.90       236
+
+    accuracy                           0.90       466
+   macro avg       0.90      0.90      0.90       466
+weighted avg       0.90      0.90      0.90       466
+
+------------------------------------------------------------
+vedant all
+Accuracy: 85.17184942716858% 
+
+              precision    recall  f1-score   support
+
+           0       0.79      0.97      0.87      1548
+           1       0.96      0.73      0.83      1507
+
+    accuracy                           0.85      3055
+   macro avg       0.87      0.85      0.85      3055
+weighted avg       0.87      0.85      0.85      3055
+
+Thresholded: 0.1132 
+Accuracy: 89.03436988543372% 
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89      1548
+           1       0.90      0.87      0.89      1507
+
+    accuracy                           0.89      3055
+   macro avg       0.89      0.89      0.89      3055
+weighted avg       0.89      0.89      0.89      3055
+
